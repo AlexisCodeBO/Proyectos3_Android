@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="tituloTER">Tres en raya</string>
+    <string name="descripcionTER">Instrucciones:</string>
+    <string name="instruccionesTER">El juego para dos jugadores se juega en una matriz de 3x3, el objetivo del juego es llena 3 espacios de esta en una fila, columna o diagonal con una X ó 0, dependiendo de la figura que le toco al jugador, y de esta manera se lograra la victoria</string>
+    <string name="dosjugadores">2 Jugadores</string>
+    <string name="etiquetaTiempo">Tiempo:</string>
+    <string name="TiempoT">00:00</string>
+    <string name="etiquetaTurno">Turno:</string>
+    <string name="TurnoT">--</string>
+    <string name="tituloVictoriaO">Victoria del jugador O</string>
+    <string name="volverJuego">Volver a jugar</string>
+    <string name="volverMenu">Volver al menu</string>
+    <string name="tituloVictoriaX">Victoria del jugador X</string>
+    <string name="tituloEmpate">Es un empate, nadie gano</string>
+    <string name="dificultad_facil">vs. AI: Dificultad Facil</string>
+    <string name="dificultad_media">vs. AI: Dificultad Media</string>
+</resources>
